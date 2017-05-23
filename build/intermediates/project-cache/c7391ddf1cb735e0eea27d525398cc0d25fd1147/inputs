@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=D:\Downloads\SlookApplication-master (1)\SlookApplication-master\app\libs\PanoramaGL_0.2-beta.jar
+FILE_HASH=0813191ee4a4bb2cfaf3fa402b97079bd861f1b0
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

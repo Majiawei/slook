@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=D:\Downloads\SlookApplication-master (1)\SlookApplication-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar
+FILE_HASH=113640906c0447bd590dd56a181e5c3977622875
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
